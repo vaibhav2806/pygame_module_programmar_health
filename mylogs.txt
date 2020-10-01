@@ -1,0 +1,6 @@
+These are logs of all the tasks:
+Drank water at:2020-10-01 19:33:56.908594
+Done exercise at:2020-10-01 19:34:04.487017
+Drank water at:2020-10-01 19:34:08.453410
+Done activity at:2020-10-01 19:34:10.217758
+Drank water at:2020-10-01 19:34:15.943036
